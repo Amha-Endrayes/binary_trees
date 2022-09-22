@@ -1,7 +1,7 @@
 #include "binary_trees.h"
 /**
  * binary_tree_insert_right - add a node at the right of the parent
- * if it already exists it move down one level and adds the new node 
+ * if it already exists it move down one level and adds the new node
  * first.
  * @parent: parent of the specified node
  * @value: value of the node
