@@ -85,8 +85,8 @@ Use the c files in the ./testFiles to excute the binary tree programs according 
 discription below.
 
 ## Module Discription:
-"""
-**0-binary_tree_node.c:** 
+
+#### **0-binary_tree_node.c:** 
 Function that creates a binary tree node
 
 **1-binary_tree_insert_left.c:** 
@@ -142,4 +142,4 @@ A Function that finds the sibling of a node
 
 **18-binary_tree_uncle.c:** 
 A Function that finds the uncle of a node
-"""
+
