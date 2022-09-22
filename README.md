@@ -11,11 +11,11 @@
 * What is a complete, a full, a perfect, a balanced binary tree
 
 ### Resources
-Binary tree (note the first line: Not to be confused with B-tree.)
-Data Structure and Algorithms - Tree
-Tree Traversal
-Binary Search Tree
-Data structures: Binary Tree
+* [Binary tree](https://alx-intranet.hbtn.io/rltoken/1F2x42-8vUbOmU4L1C1KMg) (note the first line: Not to be confused with B-tree.)
+* [Data Structure and Algorithms - Tree](https://alx-intranet.hbtn.io/rltoken/QmcTMCkQyrgMjrqoWxYdhw)
+* [Tree Traversal](https://alx-intranet.hbtn.io/rltoken/nMxoYQdZR_guroan8JeqBQ)
+* [Binary Search Tree](https://alx-intranet.hbtn.io/rltoken/qO5dBlMnYJzbaWG3xVpcnQ)
+* [Data structures: Binary Tree](https://alx-intranet.hbtn.io/rltoken/BeyJ2gjlE7_djwRiDyeHig)
 
 ## Requirements
 ### General
@@ -77,6 +77,6 @@ typedef struct binary_tree_s heap_t;
 
 
 ### Print function
-To match the examples in the tasks, you are given this function
+To match the examples in the tasks, you are given [this](https://github.com/holbertonschool/0x1C.c) function
 
 This function is used only for visualization purposes. You don’t have to push it to your repo. It may not be used during the correction
